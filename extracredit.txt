@@ -1,0 +1,7 @@
+1. A Dark Mode/Light Mode button that changes the background, the title, the grid background, and the grid text to match
+the mode it is in. The button itself also changes text so when the screen is in light mode it reads "Dark Mode" and when
+the screen is in dark mode it reads "Light Mode".
+2. An end screen that gives the user the option to open a statistics window that displays the statistics corresponding to
+the target word, including the percentage of the time the target word was guessed correctly and the average number of
+guesses it took to obtain that target word. The statistics are stored in a text file (stats.txt) so past runs of the game
+are included in the statistics.
